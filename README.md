@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanyaaajha18
+- 👋 Hi, I’m @tanyacoded
 - 👀 I’m interested in being a part of tech world
 - 🌱 I’m currently learning coding languages like python, java, c++
 - 😄 Pronouns: she/her
